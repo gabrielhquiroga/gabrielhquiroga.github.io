@@ -32,7 +32,7 @@ var translations = {
     'hint-problem-2': 'Arranco entendiendo tu flujo de trabajo antes de escribir una línea. La solución se adapta a vos, no al revés.',
     'hint-problem-3': 'Especificación primero, tests después, código al final. Sin ambigüedades ni sorpresas.',
     'hint-problem-4': 'Construyo soluciones mantenibles que evolucionan con tu equipo. No arranco de cero cada vez.',
-    'hint-problem-5': 'Te ayudo a pensar qué se puede automatizar, cómo y por dónde empezar. Sin vueltas.',
+    'hint-problem-5': 'Te ayudo a pensar qué se puede automatizar, cómo y por dónde empezar. Trabajo con startups, estudios, municipios y PyMEs — el problema es el mismo: datos que no están donde tienen que estar.',
     // Services
     'services-label': 'Servicios',
     'services-title': 'Esto es lo que hago',
@@ -131,7 +131,7 @@ var translations = {
     'hint-problem-2': 'I start by understanding your workflow before writing a single line. The solution adapts to you, not the other way around.',
     'hint-problem-3': 'Spec first, tests second, code last. No ambiguity, no surprises.',
     'hint-problem-4': 'I build maintainable solutions that evolve with your team. No starting from scratch every time.',
-    'hint-problem-5': 'I help you think through what can be automated, how, and where to start. Straightforward.',
+    'hint-problem-5': 'I help you think through what can be automated, how, and where to start. I work with startups, accounting firms, local governments, and SMEs — the problem is always the same: data that isn\'t where it needs to be.',
     'services-label': 'Services',
     'services-title': 'What I do',
     'srv-1-title': 'Consulting',
