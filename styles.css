@@ -626,6 +626,10 @@ h2 {
   transition: opacity 0.2s ease, transform 0.2s ease;
   z-index: 20;
   line-height: 1.3;
+  /* Prevent overflow: cap width and allow wrap on any screen */
+  max-width: min(320px, 75vw);
+  white-space: normal;
+  text-align: center;
 }
 
 [data-theme="dark"] .stack-item::after {
