@@ -69,7 +69,7 @@ var translations = {
     'cat-auto': 'Automatización',
     'cat-data': 'Datos & Analytics',
     'cat-cloud': 'Cloud & DevOps',
-    'stack-note': 'Uso IA como acelerador — especialmente en frontend (React, TypeScript) y tipado.<br>Mi fuerte nativo es Python, datos y automatización.',
+    'stack-note': 'Uso IA como acelerador — especialmente en frontend (React, TypeScript) y tipado. Mi fuerte nativo es Python, datos y automatización.',
     // About
     'about-label': 'Sobre mí',
     'about-title': 'Detrás del código',
