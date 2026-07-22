@@ -268,7 +268,7 @@
       var tw = document.querySelector('.typewriter');
       if (tw) {
         tw.textContent = '';
-        var typeText = lang === 'en' ? 'writes code' : 'escribe código';
+        var typeText = lang === 'en' ? 'where they need to be' : 'donde tienen que estar';
         tw.dataset.text = typeText;
         (function type(index) {
           if (index < typeText.length) {
